@@ -1,0 +1,6 @@
+train: C:\Users\Administrator\Desktop\Chinese\data\BonesOfHand_keypoint\YOLODataset\images\train
+val: C:\Users\Administrator\Desktop\Chinese\data\BonesOfHand_keypoint\YOLODataset\images\val
+
+nc: 1
+
+names: ['chinese']
